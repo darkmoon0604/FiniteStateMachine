@@ -1,0 +1,10 @@
+{
+  "name": "darkmoon.gameframework.fsm",
+  "version": "0.0.1",
+  "displayName": "\u6709\u9650\u72b6\u6001\u673a",
+  "author": {
+    "name": "Yang"
+  },
+  "unity": "2019.2",
+  "description": "\u6709\u9650\u72b6\u6001\u673a"
+}
